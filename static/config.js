@@ -2,18 +2,18 @@
 // ID of the Google spreadsheet
 // ***********************************************************************************
 // Make sure your spreadsheet is published (File > Publish to the web…)
-var spreadsheetId = "1P9wMb9e0YbhcOua9RQeRCJjllf_L77uV-7i4Q0Yor0o";
+var spreadsheetId = "1CDe5Gs4n3QsB-IkcygJEXVJUJtijABY_ItzxT4tRScY";
 
 // ***********************************************************************************
 // Your FC and IGN
 // ***********************************************************************************
-var friendCode = "4597-0550-9417";
-var inGameName = "Richie";
+var friendCode = "SW-3973-5484-9884";
+var inGameName = "Anubis";
 
 // ***********************************************************************************
 // URL of your Reddit/Twitter account
 // ***********************************************************************************
-var contactUrl = "http://reddit.com/u/richi3f";
+var contactUrl = "http://reddit.com/u/Zaskarel";
 
 // ***********************************************************************************
 // URL of your PGL trainer icon (optional)
