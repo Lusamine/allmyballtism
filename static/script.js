@@ -271,6 +271,9 @@ var Pokemon = function() {
                     if (this.dexNo > 493) {
                         if (this.dexNo > 649) {
                             if (this.dexNo > 721) {
+                                if (this.dexNo > 809) {
+                                    return 8;
+                                }
                                 return 7;
                             }
                             return 6;
